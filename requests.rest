@@ -10,11 +10,11 @@ content-type: application/json
 
 
 ### PUT REQUEST
-PUT http://localhost:48090/api/jsonBlob/1680055416514
+PUT http://localhost:48090/api/jsonBlob/test
 content-type: application/json
 
 {
-	"hello":{"world"}
+	"hello":"world good"
 }
 
 ### DELETE REQUEST
