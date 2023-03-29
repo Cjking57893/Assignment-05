@@ -10,7 +10,7 @@ content-type: application/json
 
 
 ### PUT REQUEST
-PUT http://localhost:48090
+PUT http://localhost:48090/api/jsonBlob/1680055416514
 content-type: application/json
 
 {
