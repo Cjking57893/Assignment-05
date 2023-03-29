@@ -1,5 +1,5 @@
 ### GET REQUEST
-GET http://localhost:48090
+GET http://localhost:48090/api/jsonBlob/1680055416514
 
 
 ### POST REQUEST
