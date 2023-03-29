@@ -18,4 +18,4 @@ content-type: application/json
 }
 
 ### DELETE REQUEST
-DELETE http://localhost:48090
+DELETE http://localhost:48090/api/jsonBlob/1680055416514
