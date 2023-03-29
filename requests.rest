@@ -14,7 +14,7 @@ PUT http://localhost:48090/api/jsonBlob/test
 content-type: application/json
 
 {
-	"hello":{"world"}
+	"hello":"world"
 }
 
 ### DELETE REQUEST
